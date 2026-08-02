@@ -71,4 +71,4 @@ python main.py
 
 ## Author
 
-Created by Nisha Maurya.
+By HeyNia
